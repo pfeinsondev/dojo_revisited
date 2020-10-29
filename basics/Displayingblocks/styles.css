@@ -1,0 +1,71 @@
+/* Card Grid Classes */
+img { 
+    width:100px;     
+    height:100px;
+}
+
+.black_border { 
+    width:120px; 
+    height:120px; 
+    
+    display:inline-block;
+    
+    border:3px solid black; 
+    margin:5px;
+}
+
+.blue_card { 
+    width:100px;
+    height:100px;
+    
+    border:10px solid skyblue; 
+      
+    background-color:white;  
+}
+
+.red_card { 
+    width:100px;
+    height:100px;
+    
+    border:10px solid lightcoral;
+    
+    background-color:lightcoral; 
+    
+}
+
+.panel { 
+    width: 800px; 
+    height: 600px; 
+    
+    display:inline-block; 
+    
+    padding:25px;
+}
+
+/* header classes */
+.head_image { 
+    width:100px; 
+    height:50px; 
+    
+    background-color:white;
+}
+
+.header { 
+    height:50px; 
+    width:500px; 
+    padding-left:175px;
+    padding-top:50px;
+    display:inline-block; 
+}
+
+.header h3 { 
+    display:inline-block; 
+    font-size:24px;
+    
+}
+.primary_container { 
+    width: 750px; 
+    height: 700px; 
+    
+    background-color:#d5d2ae; 
+}
